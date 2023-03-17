@@ -13,3 +13,9 @@
 <p align="center">The purpose of this repository is to share tools and other materials to be used in ADEA courses.</p>
 
 ##
+
+<h3 align="center">Courses:</h3>
+
+<p align="center"><a href="https://github.com/kevindexter22/ADEA/blob/main/Computer Operator" rel="noopener noreferrer">Computer Operator</a></p>
+
+<p align="center">Assembly and maintenance of computers</p>
