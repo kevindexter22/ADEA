@@ -4,8 +4,7 @@
 
 <br>
 
-<!-- ADEA --><p align="center"><img align="center" alt="Kevin-ADEA-Banner" src="https://github.com/kevindexter22/ADEA/blob/main/Images/Sem título.jpeg"></p>
-<p align="center"><img align="center" alt="Kevin-Zabbix-Status" src="https://img.shields.io/badge/Zabbix-Under%20Development-orange"></p>
+<!-- ADEA --><p align="center"><img align="center" alt="Kevin-ADEA-Banner" src="https://github.com/kevindexter22/ADEA/blob/main/Images/ADEA.png"></p>
  
  ##
 
